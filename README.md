@@ -38,3 +38,5 @@
 <p>TAMS: https://www.tams.com.ng - Website and Web application(web based software)</p>
 <p>NEYA: https://neya.tams.com.ng</p>
 <p>Lupark: http://lupark.co.uk/</p>
+<p>GPAEM: https://godspowerinaction.org</p>
+<p>YEBA Capital: https://yeba-capital.netlify.app/</p>
