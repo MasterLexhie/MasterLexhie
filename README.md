@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Strapi and React.js; 
 - 👯 I’m looking to collaborate on Projects that will contribute to my growth🤝;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I am currently in school and i enjoy reading books (Any book that interests me);
+- ⚡️ Fun-Fact: I enjoy reading books and playing video games;
 - 📫 How to reach me: kanuprecious89@gmail.com;
 
 **Languages and Tools:** 
@@ -39,4 +39,5 @@
 <p>NEYA: https://neya.tams.com.ng</p>
 <p>Lupark: http://lupark.co.uk/</p>
 <p>GPAEM: https://godspowerinaction.org</p>
+<p>Calculator: http://vue-calculator-app.surge.sh</p>
 <p>YEBA Capital: https://yeba-capital.netlify.app/</p>
