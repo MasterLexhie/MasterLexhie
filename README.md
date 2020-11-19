@@ -40,4 +40,4 @@
 <p>Lupark: http://lupark.co.uk/</p>
 <p>GPAEM: https://godspowerinaction.org</p>
 <p>Calculator: http://vue-calculator-app.surge.sh</p>
-<p>YEBA Capital: https://yeba.com.ng/</p>
+<p>YEBA Capital: https://yeba-capital.netlify.app/</p>
