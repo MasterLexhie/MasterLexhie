@@ -11,7 +11,7 @@
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
-- 🌱 I’m currently learning Strapi and React.js; 
+- 🌱 I’m currently learning Graphql, Strapi and React.js; 
 - 👯 I’m looking to collaborate on Projects that will contribute to my growth🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I enjoy reading books and playing video games;
@@ -40,4 +40,4 @@
 <p>Lupark: http://lupark.co.uk/</p>
 <p>GPAEM: https://godspowerinaction.org</p>
 <p>Calculator: http://vue-calculator-app.surge.sh</p>
-<p>YEBA Capital: https://yeba-capital.netlify.app/</p>
+<p>YEBA Capital: https://yeba.com.ng/</p>
