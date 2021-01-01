@@ -38,6 +38,8 @@
 <p>TAMS: https://www.tams.com.ng - Website and Web application(web based software)</p>
 <p>NEYA: https://neya.tams.com.ng</p>
 <p>Lupark: http://lupark.co.uk/</p>
+<p>Lumin Product page: https://lumin-product-page.netlify.app</p>
 <p>GPAEM: https://godspowerinaction.org</p>
+<p>Colony Solution: http://52.154.74.105</p>
 <p>Calculator: http://vue-calculator-app.surge.sh</p>
 <p>YEBA Capital: https://yeba-capital.netlify.app/</p>
