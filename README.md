@@ -33,7 +33,6 @@
 **Projects i've worked on/contributed to:** 
 <p>TAMS: https://www.tams.com.ng - Website and Enterprise software(Web based)</p>
 <p>NEYA: https://neya.tams.com.ng</p>
-<p>Lupark: http://lupark.co.uk/</p>
 <p>Lumin Product page: https://lumin-product-page.netlify.app</p>
 <p>GPAEM: https://godspowerinaction.org</p>
 <p>Colony Solution: http://52.154.74.105</p>
