@@ -9,8 +9,7 @@
 
 &nbsp;
 
-**Talking about Personal Stuffs:**
-- 🌱 I’m currently learning Strapi; 
+**Talking about Personal Stuffs:** 
 - 👯 I’m looking to collaborate on Projects that will contribute to my growth🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I enjoy reading books and playing video games;
