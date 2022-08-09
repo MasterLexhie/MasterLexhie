@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-## I'm Precious Alex Kanu, a Front-End Engineer 🚀 from Nigeria.
+## I'm Precious Alex Kanu, a Front-End Developer 🚀 from Nigeria.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MasterLexhie)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/precious-alexandra-kanu-64890915a/)
