@@ -36,14 +36,26 @@ Git, GitHub, VS Code, Postman, Jira, Slack, Agile/Scrum
 
 ---
 
-## 🧠 Featured Projects
+## 🧠 Featured Projects (Professional Work)
 
-Here you'll find projects that reflect my experience in:
-- Building SaaS products from the ground up
-- Integrating ad platform APIs and analytics
-- Creating robust backend systems
-- Developing internal tools and documentation platforms
-- Experimenting with AI-powered user experiences
+The following projects reflect real-world, production-grade systems I contributed to while working with international teams — though these aren't publicly available on this GitHub due to company confidentiality:
+
+- ✅ **Ad Performance Sync Tool**  
+  Built real-time syncing pipelines for ad performance metrics using Facebook Ads API, TikTok Ads API, Google Ads API, and Shopify API.
+
+- ✅ **Internal API Documentation Platform**  
+  Designed and implemented a full-stack documentation tool using Next.js, Firebase Firestore, and AWS Amplify, enabling cross-team visibility.
+
+- ✅ **Analytics-Driven Web Apps**  
+  Integrated Mixpanel (client & server-side) to track user behavior across multiple apps, enabling data-informed product decisions.
+
+- ✅ **AI-Powered Features with GPT-4 & Claude**  
+  Integrated Portkey AI agent manager to leverage GPT-4 Vision, Claude, and Gemini for intelligent app features.
+
+- ✅ **Event-Driven Infrastructure**  
+  Re-architected legacy systems using AWS Lambda and EventBridge to support event-driven workflows and improve scalability.
+
+> ⚠️ These projects were built under proprietary company accounts and are **not hosted on this personal GitHub**, but feel free to reach out if you'd like to hear more about the architecture, challenges, or approaches I took.
 
 👉 Stay tuned for upcoming open-source contributions and experiments!
 
