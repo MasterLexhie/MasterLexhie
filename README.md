@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Precious Kanu
 
-🎯 **Full Stack Software Engineer** | 🌍 Remote Developer | 💡 SaaS & Product Enthusiast
+🎯 **Software Engineer** | 🌍 Remote Developer | 💡 SaaS & Product Enthusiast
 
 Welcome to my GitHub! I'm a product-focused software engineer with over **6 years** of experience building scalable web applications, SaaS platforms, and integrating complex APIs. I bridge business goals with technical execution, ensuring every line of code delivers value.
 
@@ -55,10 +55,10 @@ The following projects reflect real-world, production-grade systems I contribute
 - ✅ **[TAMS](https://www.tams.com.ng/)**
    - Successfully migrated complex frontend codebases from PHP to Vue.js, improving code maintainability, enabling faster feature development, and establishing clean separation between frontend and backend logic.
    - Played a key role in rebuilding a human resource SaaS platform used by federal and private organizations, directly contributing to a 20% churn reduction through modern UI improvements and UX-driven component design.
-   - Briefy led frontend efforts to design and implement a relational document management system and multiple event-driven marketing tools—balancing collaboration, scalability, and attention to business goals.
+   - Briefly led frontend efforts to design and implement a relational document management system and multiple event-driven marketing tools—balancing collaboration, scalability, and attention to business goals.
   
 
-> ⚠️ These projects were built under proprietary company accounts and are **not hosted on this personal GitHub**, however feel free to reach out if you'd like to hear more about the architecture, challenges, or approaches I took.
+⚠️ These projects were built under proprietary company accounts and are **not hosted on this personal GitHub**. However, feel free to reach out if you'd like to hear more about the architecture, challenges, or approaches I took.
 
 👉 Stay tuned for upcoming open-source contributions and experiments!
 
