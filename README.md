@@ -11,7 +11,6 @@ Welcome to my GitHub! I'm a product-focused software engineer with over **6 year
 
 - **Frontend Engineering:** Building clean, accessible, and responsive UIs using **React**, **Vue**, **Next.js**, **Tailwind CSS**, and more.
 - **Backend Engineering:** Crafting scalable APIs and services using **Node.js**, **GraphQL**, and **PostgreSQL**.
-- **Cloud Infrastructure:** Architecting serverless, event-driven systems with **AWS (Lambda, AppSync, EventBridge, Amplify)** and **Firebase**.
 - **AI Integrations:** Leveraging **GPT-4 Vision**, **Claude**, and **Gemini** through tools like **Portkey** for intelligent applications.
 - **Product Ownership:** Experienced in agile workflows, cross-functional collaboration, and delivering real business impact.
 
