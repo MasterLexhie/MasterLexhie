@@ -1,73 +1,118 @@
+# Hi, I'm Precious Kanu
 
-# 👋 Hi, I'm Precious Kanu
+### Product-minded Software Engineer | Full-Stack Development | AI-Powered Products
 
-🎯 **Software Engineer** | 🌍 Remote Developer | 💡 SaaS & Product Enthusiast
+I'm a software engineer with **7+ years of experience** building SaaS products, developing full-stack features, integrating APIs, and solving production engineering problems.
 
-Welcome to my GitHub! I'm a product-focused software engineer with over **6 years** of experience building scalable web applications, SaaS platforms, and integrating complex APIs. I bridge business goals with technical execution, ensuring every line of code delivers value.
+I work across the stack, from user-facing interfaces to backend services and data systems. I care about building software that solves real problems, making sound engineering decisions, and understanding how the systems I build support the product.
 
----
+My core strengths are **JavaScript, TypeScript, React, and Node.js**. I'm also building on my experience integrating large language models into applications as I deepen my focus on AI engineering and agentic systems.
 
-## 🔧 What I Do
-
-- **Frontend Engineering:** Building clean, accessible, and responsive UIs using **React**, **Vue**, **Next.js**, **Tailwind CSS**, and more.
-- **Backend Engineering:** Crafting scalable APIs and services using **Node.js**, **GraphQL**, and **PostgreSQL**.
-- **AI Integrations:** Leveraging **GPT-4 Vision**, **Claude**, and **Gemini** through tools like **Portkey** for intelligent applications.
-- **Product Ownership:** Experienced in agile workflows, cross-functional collaboration, and delivering real business impact.
+- **Portfolio:** [lexhie.dev](https://www.lexhie.dev/)
+- **LinkedIn:** [Precious Kanu](https://www.linkedin.com/in/precious-alexandra-kanu/)
+- **Email:** [kanuprecious89@gmail.com](mailto:kanuprecious89@gmail.com)
 
 ---
 
-## 🧰 Tech Toolbox
+## Engineering Impact
 
-**Languages & Frameworks**  
-TypeScript, JavaScript (ES6+), Vue.js, Nuxt.js, React, Next.js, Node.js
+I enjoy working on problems where engineering decisions have a measurable impact on product performance, reliability, and usability.
 
-**Databases**  
-PostgreSQL, MongoDB, Firebase Firestore
+### [01 — Fixing Query Performance at Scale](https://www.lexhie.dev/work/case-studies/sirge-api-optimization)
 
-**Cloud & DevOps**  
-AWS Lambda, AppSync, Amplify, EventBridge, Firebase Auth
+**Reduced core API response time from 10 seconds to 300 milliseconds — a 97% reduction.**
 
-**AI Integration & Tools**  
-GPT-4, Claude AI, Gemini, Portkey (AI agent routing & orchestration)
+At Sirge, I investigated a production performance issue affecting enterprise-scale transaction data. I traced the bottlenecks across the API, ORM, and database, then restructured tables and indexes around actual query patterns.
 
-**APIs & Analytics**  
-Mixpanel, Facebook Ads API, TikTok Ads API, Google Ads API, Shopify API
+The changes were deployed without downtime or data loss, and the improvement was monitored over the following six months.
 
-**Dev Tools & Collaboration**  
-Git, GitHub, Bitbucket, VS Code, Postman, Jira, ClickUp, Slack, Agile/Scrum
+**Focus:** Node.js, TypeScript, PostgreSQL, Prisma, API performance, database optimization.
 
----
+### [02 — Building the Sirge Analytics Dashboard](https://www.lexhie.dev/work/case-studies/sirge-analytics-dashboard)
 
-## 🧠 Featured Projects (Professional Work)
+**Built a full-stack analytics dashboard from scratch as part of a product rebuild.**
 
-The following projects reflect real-world, production-grade systems I contributed to while working with international teams, though these aren't publicly available on this GitHub due to company confidentiality:
+The dashboard unified Shopify sales data with advertising data from Meta, TikTok, and Google. My work spanned the underlying data structure, backend services, aggregation, external API integrations, and frontend implementation.
 
-- ✅ **[Sirge APP](https://apps.shopify.com/sirge-3)**  
-   - Built near real-time syncing pipelines for ad performance metrics using Facebook Ads API, TikTok Ads API, Google Ads API, and Shopify API.
-   - Designed and implemented a full-stack API documentation tool using Next.js, Firebase Firestore, and AWS Amplify, enabling cross-team visibility.
-   - Integrated Mixpanel (client & server-side) to track user behaviour across multiple apps, enabling data-informed product decisions.
-  
-- ✅ **[Sirge](https://www.sirge.com/)**  
-   - Integrated Portkey AI agent manager to leverage GPT-4 Vision, Claude, and Gemini for intelligent app features.
-   - Contributed to Re-architecting legacy systems using AWS Lambda and EventBridge to support event-driven workflows and improve scalability.
+Key engineering decisions included moving to PostgreSQL to improve data consistency and using batched, cached aggregation to work within external API rate limits.
 
-- ✅ **[TAMS](https://www.tams.com.ng/)**
-   - Successfully migrated complex frontend codebases from PHP to Vue.js, improving code maintainability, enabling faster feature development, and establishing clean separation between frontend and backend logic.
-   - Played a key role in rebuilding a human resource SaaS platform used by federal and private organizations, directly contributing to a 20% churn reduction through modern UI improvements and UX-driven component design.
-   - Briefly led frontend efforts to design and implement a relational document management system and multiple event-driven marketing tools—balancing collaboration, scalability, and attention to business goals.
-  
+**Focus:** React, Next.js, Node.js, TypeScript, PostgreSQL, API integrations, data architecture.
 
-⚠️ These projects were built under proprietary company accounts and are **not hosted on this personal GitHub**. However, feel free to reach out if you'd like to hear more about the architecture, challenges, or approaches I took.
+### [03 — Building an AI-Powered Shopify Audit Tool](https://www.lexhie.dev/work/sirge-audit-tool)
 
-👉 Stay tuned for upcoming open-source contributions and experiments!
+**Worked on an automated website auditing and reporting workflow.**
+
+The product evaluates Shopify stores across areas including SEO, accessibility, performance, and conversion. The workflow brings together automated checks, scoring, AI-generated recommendations, and report delivery.
+
+This work reflects my interest in applying AI capabilities within practical software products rather than treating AI as a standalone feature.
+
+**Focus:** Backend development, LLM API integrations, application workflows, automated reporting.
 
 ---
 
-## 📬 Get in Touch
+## Technical Focus
 
-- 📧 [kanuprecious89@gmail.com](mailto:kanuprecious89@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/precious-alexandra-kanu/)
+### Languages & Frontend
+- JavaScript
+- TypeScript
+- React
+- Next.js
+
+### Backend & APIs
+- Node.js
+- REST APIs
+- GraphQL
+- API integrations and backend services
+
+### Data & Infrastructure
+- **Cloud:** Microsoft Azure (App Service, Static Web Apps, Azure Storage), AWS
+- **Databases:** PostgreSQL, MongoDB
+- **ORM:** Prisma
+
+### AI Engineering
+- LLM API integration
+- Prompt design
+- Structured model outputs
+- Integrating AI capabilities into application workflows
+- Working with OpenAI, Claude, and Gemini APIs
+
+My primary focus is building reliable full-stack applications. I'm continuing to deepen my AI engineering knowledge, particularly around building more capable AI-driven workflows and agentic systems.
 
 ---
 
-⭐️ _Thanks for visiting my profile. Feel free to explore my repos, leave feedback, or reach out for collaborations!_
+## How I Approach Engineering
+
+- **Product thinking:** Understand the problem and intended outcome before deciding how to implement a solution.
+- **End-to-end ownership:** Work across frontend, backend, APIs, and data systems to deliver complete features.
+- **Evidence-driven decisions:** Investigate bottlenecks, understand trade-offs, and validate changes against measurable outcomes.
+- **Production reliability:** Account for data integrity, API limits, failure cases, and operational constraints.
+- **Continuous learning:** Build on practical engineering experience while exploring new approaches to application development, including AI engineering.
+
+---
+
+## Professional Work & Private Repositories
+
+Much of my professional engineering work has been developed in private repositories under company ownership.
+
+I've shared selected case studies that explain the problems I worked on, the technical decisions involved, and the outcomes achieved.
+
+Explore more of my work:
+
+- [Sirge Shopify App](https://www.lexhie.dev/work/sirge-shopify-app)
+- [Sirge API Optimization](https://www.lexhie.dev/work/case-studies/sirge-api-optimization)
+- [Sirge Analytics Dashboard](https://www.lexhie.dev/work/case-studies/sirge-analytics-dashboard)
+- [Sirge Audit Tool](https://www.lexhie.dev/work/sirge-audit-tool)
+- [Travel Jinni](https://www.lexhie.dev/work/travel-jinni)
+- [TAMS](https://www.lexhie.dev/work/tams)
+
+For more about my background and experience, visit my [portfolio](https://www.lexhie.dev/) or [about page](https://www.lexhie.dev/about).
+
+---
+
+## Let's Connect
+
+I'm interested in thoughtful engineering, useful software products, and opportunities to build reliable applications while continuing to grow in AI engineering.
+
+- [Portfolio](https://www.lexhie.dev/)
+- [LinkedIn](https://www.linkedin.com/in/precious-alexandra-kanu/)
+- [Email](mailto:kanuprecious89@gmail.com)
